@@ -233,7 +233,7 @@
       "url": "_framework\/MongoProject.dll"
     },
     {
-      "hash": "sha256-XUzD4KT9+pOxw5\/\/SYwJ4POemmyhbRgUUdYiXfnHIR4=",
+      "hash": "sha256-HmFTT7jqu5jJSdQgLTk9G6cTlJkVmwc7wN1xiTZ5Plg=",
       "url": "_framework\/CallCenterWASM.dll"
     },
     {
@@ -445,7 +445,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-4x2Zf1NjuU5uW8mi\/n+Pi4wUiwgxTS52aXqarQ6UXl4=",
+      "hash": "sha256-qnx7Fa0EtVUSr66pV0o399HAbGNDizIesCjqSA7Whsc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -453,5 +453,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "GQZ95UI3"
+  "version": "xDoag2UW"
 };
